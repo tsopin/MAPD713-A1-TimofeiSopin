@@ -1,0 +1,17 @@
+{
+  "name": "mapd713_assignment1",
+  "version": "1.0.0",
+  "description": "Developing Node.js http server to store and retrieve product information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Timofei Sopin",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.31",
+    "restify": "^4.1.1",
+    "save": "^2.3.0"
+  }
+}
